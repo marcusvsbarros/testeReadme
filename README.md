@@ -4,11 +4,11 @@
 </div>
 
 
-## :busts_in_silhouette: Introdução
+## :bookmark_tabs: Introdução
 
 A API de Clínicas é um sistema desenvolvido para tarefa do curso de Bancos de Dados Não Relacionais do curso de Desenvolvimento de Software Multiplataforma da Fatec Votorantim. Ela permite o gerenciamento de informações relacionadas a clínicas que serão implementadas na Plataforma CalmaMente.
 
-## :busts_in_silhouette: Dicas
+## :desktop_computer: Dicas
 Informações Básicas
 Certifique-se de adicionar a seguinte chave no arquivo package.json para suportar o uso de módulos ECMAScript:
 
@@ -25,7 +25,7 @@ Execute o servidor localmente, no terminal bash do VSCode, usando: npm run dev
 Instale os pacotes usando comando, se necessário:
 npm install express mongodb dotenv express-validator cors bcryptjs jsonwebtoken --save nodemon jest supertest ts-node-dev --save-dev @types/bootstrap
 
-## :busts_in_silhouette: Definições
+## 🛠️ Definições
 Pacotes Utilizados
 express: Framework web rápido e flexível para Node.js.
 mongodb: Driver oficial do MongoDB para Node.js.
