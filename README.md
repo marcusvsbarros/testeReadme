@@ -27,15 +27,18 @@ npm install express mongodb dotenv express-validator cors bcryptjs jsonwebtoken 
 
 ## 🛠️ Definições
 Pacotes Utilizados
-express: Framework web rápido e flexível para Node.js.
-mongodb: Driver oficial do MongoDB para Node.js.
-dotenv: Carrega variáveis de ambiente do arquivo .env para process.env.
-cors: Middleware que permite comunicação entre diferentes domínios na web.
-express-validator: Middleware para validação de dados de entrada em solicitações HTTP.
-nodemon (apenas para desenvolvimento): Ferramenta que monitora alterações no código-fonte e reinicia automaticamente o servidor.
-jsonwebtoken: Implementação de JWT em Node.js.
-bcryptjs: Algoritmo de geração de hash para senhas.
-JestUm-SuperTest Framework de testes JavaScript popular e leve, ideal para testes unitários, de integração e ponta a ponta. SuperTest é uma biblioteca que facilita o teste de APIs Node.js com Jest ou Mocha, fornecendo uma interface de alto nível para realizar requisições HTTP e verificar as respostas.
+> - express: Framework web rápido e flexível para Node.js.
+> - mongodb: Driver oficial do MongoDB para Node.js.
+> - dotenv: Carrega variáveis de ambiente do arquivo .env para process.env.
+> - cors: Middleware que permite comunicação entre diferentes domínios na web.
+> - express-validator: Middleware para validação de dados de entrada em solicitações HTTP.
+> - nodemon (apenas para desenvolvimento): Ferramenta que monitora alterações no código-fonte e reinicia automaticamente o servidor.
+> - jsonwebtoken: Implementação de JWT em Node.js.
+> - bcryptjs: Algoritmo de geração de hash para senhas.
+> - Jest: Framework de testes JavaScript popular e leve, ideal para testes unitários, de integração e ponta a ponta.
+> - SuperTest: Biblioteca que facilita o teste de APIs Node.js com Jest ou Mocha, fornecendo uma interface de alto nível para realizar requisições HTTP e verificar as respostas.
+> - TypeScript: Superset do JavaScript que adiciona tipagem estática opcional, facilitando a manutenção e escalabilidade do código.
+> - Mongoose: Biblioteca de modelagem de dados do MongoDB para Node.js, fornecendo um ambiente de programação orientado a esquemas.
 
 Acesse em: https://projeto-bdnsql.vercel.app/
 
